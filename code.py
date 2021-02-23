@@ -1,4 +1,5 @@
-#
+#Author: Rajendra L Hanagodi
+#Date of creation:23/02/2021
 
 import re
 input_file= open("input.txt","r")                                   #reading the input file
