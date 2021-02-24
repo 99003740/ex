@@ -1,2 +1,809 @@
-['the', 'the', 'the', 'the', 'the', 'The', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'The', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'The', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'The', 'the', 'the', 'The', 'the', 'the', 'the', 'the', 'the', 'the', 'The', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'The', 'the', 'the', 'the', 'The', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'The', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'The', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'The', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'The', 'the', 'the', 'The', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'The', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'The', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'The', 'The', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'The', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'THE', 'THE', 'THE', 'THE', 'THE', 'THE', 'THE', 'THE', 'THE', 'THE', 'THE', 'THE', 'THE', 'THE', 'THE', 'THE', 'THE', 'THE', 'THE', 'THE', 'THE', 'THE', 'THE', 'The', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the']
-Number of time word apperred in input file:459
+is the first
+
+of the Lesser
+
+as the successor
+
+of the GNU
+
+hence the version
+
+Preamble The licenses
+
+contrast, the GNU
+
+sure the software
+
+license, the Lesser
+
+libraries--of the Free
+
+or the ordinary
+
+is the better
+
+on the explanations
+
+have the freedom
+
+change the software
+
+do these things.
+
+you these rights
+
+surrender these rights.
+
+rights. These restrictions
+
+of the library
+
+of the library,
+
+give the recipients
+
+all the rights
+
+that they, too,
+
+get the source
+
+with the library,
+
+to the recipients,
+
+that they can
+
+relink them with
+
+with the library
+
+to the library
+
+show them these
+
+them these terms
+
+so they know
+
+know their rights.
+
+copyright the library,
+
+modify the library.
+
+that there is
+
+for the free
+
+if the library
+
+on, the recipients
+
+what they have
+
+not the original
+
+that the original
+
+to the existence
+
+restrict the users
+
+holder. Therefore, we
+
+of the library
+
+with the full
+
+by the ordinary
+
+license, the GNU
+
+from the ordinary
+
+library, the combination
+
+of the two
+
+of the original
+
+library. The ordinary
+
+License therefore permits
+
+if the entire
+
+freedom. The Lesser
+
+with the library.
+
+license the "Lesser"
+
+protect the user's
+
+than the ordinary
+
+programs. These disadvantages
+
+are the reason
+
+use the ordinary
+
+However, the Lesser
+
+occasions, there may
+
+encourage the widest
+
+use the library.
+
+does the same
+
+case, there is
+
+limiting the free
+
+use the Lesser
+
+use the GNU
+
+use the whole
+
+variant, the GNU/Linux
+
+Although the Lesser
+
+of the users'
+
+that the user
+
+with the Library
+
+has the freedom
+
+and the wherewithal
+
+of the Library.
+
+Library. The precise
+
+to the difference
+
+on the library"
+
+uses the library".
+
+library". The former
+
+from the library,
+
+whereas the latter
+
+with the library
+
+by the copyright
+
+under the terms
+
+executables. The "Library",
+
+under these terms.
+
+on the Library"
+
+either the Library
+
+containing the Library
+
+in the term
+
+means the preferred
+
+of the work
+
+all the source
+
+plus the scripts
+
+of the library.
+
+License; they are
+
+scope. The act
+
+using the Library
+
+on the Library
+
+of the use
+
+of the Library
+
+what the Library
+
+what the program
+
+uses the Library
+
+of the Library's
+
+all the notices
+
+to the absence
+
+with the Library.
+
+for the physical
+
+of the Library
+
+on the Library,
+
+under the terms
+
+of these conditions:
+
+a) The modified
+
+cause the files
+
+changed the files
+
+and the date
+
+cause the whole
+
+of the work
+
+under the terms
+
+in the modified
+
+uses the facility,
+
+when the facility
+
+invoked, then you
+
+in the event
+
+table, the facility
+
+of the application.
+
+application. Therefore, Subsection
+
+if the application
+
+it, the square
+
+roots.) These requirements
+
+to the modified
+
+from the Library,
+
+in themselves, then
+
+themselves, then this
+
+distribute them as
+
+distribute the same
+
+on the Library,
+
+Library, the distribution
+
+of the whole
+
+on the terms
+
+to the entire
+
+not the intent
+
+rather, the intent
+
+exercise the right
+
+control the distribution
+
+on the Library.
+
+on the Library
+
+with the Library
+
+on the Library)
+
+bring the other
+
+under the scope
+
+apply the terms
+
+of the ordinary
+
+of the Library.
+
+all the notices
+
+that they refer
+
+to the ordinary
+
+of the ordinary
+
+appeared, then you
+
+in these notices.
+
+so the ordinary
+
+of the code
+
+of the Library
+
+distribute the Library
+
+under the terms
+
+with the complete
+
+under the terms
+
+place, then offering
+
+copy the source
+
+from the same
+
+satisfies the requirement
+
+distribute the source
+
+copy the source
+
+with the object
+
+of the Library,
+
+with the Library
+
+uses the Library".
+
+of the Library,
+
+and therefore falls
+
+outside the scope
+
+uses the Library"
+
+with the Library
+
+of the Library
+
+of the Library),
+
+uses the library".
+
+library". The executable
+
+is therefore covered
+
+uses the Library"
+
+of the Library,
+
+Library, the object
+
+for the work
+
+of the Library
+
+though the source
+
+if the work
+
+without the Library,
+
+if the work
+
+library. The threshold
+
+length), then the
+
+then the use
+
+of the object
+
+of the Library
+
+if the work
+
+of the Library,
+
+distribute the object
+
+for the work
+
+under the terms
+
+not they are
+
+with the Library
+
+to the Sections
+
+uses the Library"
+
+with the Library
+
+of the Library,
+
+that the terms
+
+of the work
+
+for the customer's
+
+of the work
+
+that the Library
+
+that the Library
+
+If the work
+
+include the copyright
+
+for the Library
+
+among them, as
+
+directing the user
+
+to the copy
+
+of these things:
+
+Accompany the work
+
+with the complete
+
+for the Library
+
+in the work
+
+if the work
+
+with the Library,
+
+with the complete
+
+uses the Library",
+
+that the user
+
+modify the Library
+
+and then relink
+
+containing the modified
+
+that the user
+
+changes the contents
+
+in the Library
+
+recompile the application
+
+use the modified
+
+with the Library.
+
+of the library
+
+on the user's
+
+into the executable,
+
+of the library,
+
+if the user
+
+as the modified
+
+with the version
+
+that the work
+
+Accompany the work
+
+give the same
+
+user the materials
+
+than the cost
+
+of the work
+
+copy the above
+
+from the same
+
+that the user
+
+of these materials
+
+executable, the required
+
+of the "work
+
+uses the Library"
+
+reproducing the executable
+
+exception, the materials
+
+with the major
+
+of the operating
+
+which the executable
+
+accompanies the executable.
+
+contradicts the license
+
+accompany the operating
+
+both them and
+
+and the Library
+
+on the Library
+
+that the separate
+
+of the work
+
+on the Library
+
+of the other
+
+do these two
+
+Accompany the combined
+
+of the same
+
+on the Library,
+
+under the terms
+
+of the Sections
+
+with the combined
+
+of the fact
+
+on the Library,
+
+find the accompanying
+
+of the same
+
+distribute the Library
+
+distribute the Library
+
+have their licenses
+
+distribute the Library
+
+works. These actions
+
+License. Therefore, by
+
+distributing the Library
+
+on the Library),
+
+modifying the Library
+
+redistribute the Library
+
+on the Library),
+
+Library), the recipient
+
+from the original
+
+modify the Library
+
+to these terms
+
+on the recipients'
+
+of the rights
+
+contradict the conditions
+
+License, they do
+
+from the conditions
+
+obligations, then as
+
+distribute the Library
+
+of the Library
+
+you, then the
+
+then the only
+
+of the Library.
+
+circumstance, the balance
+
+of the section
+
+and the section
+
+not the purpose
+
+has the sole
+
+protecting the integrity
+
+of the free
+
+to the wide
+
+to the author/donor
+
+of the rest
+
+If the distribution
+
+of the Library
+
+interfaces, the original
+
+places the Library
+
+incorporates the limitation
+
+in the body
+
+13. The Free
+
+of the Lesser
+
+to the present
+
+If the Library
+
+have the option
+
+following the terms
+
+by the Free
+
+If the Library
+
+by the Free
+
+of the Library
+
+with these, write
+
+to the author
+
+by the Free
+
+to the Free
+
+by the two
+
+preserving the free
+
+promoting the sharing
+
+BECAUSE THE LIBRARY
+
+CHARGE, THERE IS
+
+FOR THE LIBRARY,
+
+TO THE EXTENT
+
+WRITING THE COPYRIGHT
+
+PROVIDE THE LIBRARY
+
+TO, THE IMPLIED
+
+PURPOSE. THE ENTIRE
+
+TO THE QUALITY
+
+OF THE LIBRARY
+
+SHOULD THE LIBRARY
+
+ASSUME THE COST
+
+REDISTRIBUTE THE LIBRARY
+
+OF THE USE
+
+USE THE LIBRARY
+
+OF THE LIBRARY
+
+OF THE POSSIBILITY
+
+Apply These Terms
+
+of the greatest
+
+to the public,
+
+under these terms
+
+under the terms
+
+of the ordinary
+
+apply these terms,
+
+attach the following
+
+to the library.
+
+attach them to
+
+to the start
+
+convey the exclusion
+
+least the "copyright"
+
+where the full
+
+give the library's
+
+under the terms
+
+of the GNU
+
+by the Free
+
+of the License,
+
+in the hope
+
+even the implied
+
+See the GNU
+
+of the GNU
+
+to the Free
+
+for the library,
+
+alter the names:
+
+in the library
+
+all there is
+
+Number of times word appered in file:  404
