@@ -1,2 +1,0 @@
-[]
-Number of time word apperred in input file : 0
