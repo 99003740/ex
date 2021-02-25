@@ -1,21 +1,36 @@
-#Author: Rajendra L Hanagodi
-#Date of creation:23/02/2021
-
+# Author: Rajendra L Hanagodi
+# Date of creation:23/02/2021
 import re
-input_file= open("input.txt","r")                                   #reading the input file
 
-input_search=input("Enter the Word to be search:\n")                #user input requried word
 
-word=(re.findall(input_search,input_file.read(),re.M|re.I))         #finding all the user input requried word from the input file
+class search_word:
 
-number_of_times_word_appered=len(word)                              #counting the number of times input word is repeating
-#print(word)
-#print(number_of_times_word_appered) 
-   
-user_input_search_word=input_search+'.txt'
+    def __init__(self):
+        print("This is init")
 
-user_input_file=open(user_input_search_word,"w+")
+    @staticmethod
+    def opera():
+        num = int(input('enter the number input words :'))
+        n = 0
+        while num > n:
+            input_file = open("input.txt", "r")
+            count = 0
+            input_search = input("Enter the Word to be search:\n")
+            input_file2 = input_file.read()
+            input_file3 = re.sub(r'\W+', ' ', input_file2)
+            input_file1 = input_file3.split()
+            user_input_search_word = input_search + '.txt'
+            user_input_file = open(user_input_search_word, 'a')
+            for i in range(len(input_file1)):
+                word = re.fullmatch(input_search, input_file1[i], re.M | re.I)
+                if word:
+                    count += 1
+                    user_input_file.write(input_file1[i - 1] + ' ' + input_file1[i] + ' ' + input_file1[i + 1] + '\n')
+            user_input_file.write("Number of times word appered in file:  " + str(count))
+            input_file.close()
+            user_input_file.close()
+            n += 1
 
-user_input_file.writelines(str(word )+"\n" )
 
-user_input_file.write(str(number_of_times_word_appered))
+obj = search_word()
+obj.opera()
