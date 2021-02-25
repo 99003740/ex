@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 is not allowed.
 use, not price.
 is no warranty
@@ -66,3 +67,7 @@ BUT NOT LIMITED
 following notices to
 full notice is
 if not, write
+=======
+['no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'NO', 'NO', 'NO', 'NO', 'NO', 'no', 'no', 'no', 'no']
+Number of time word apperred in input file : 79
+>>>>>>> 1e28f9d03792e4a29c9a709eeb0c66fe12b90723
