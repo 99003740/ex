@@ -30,20 +30,20 @@ class search_word:
             input_file2 = input_file.read()
             input_file3 = re.sub(r'\W+', ' ', input_file2)
             # spliting of word by word
-            input_file1 = input_file3.split()
+            file1 = input_file3.split()
             user_input_search_word = input_search + '.txt'
             # opened user input words file
             user_input_file = open(user_input_search_word, 'a')
             # to iterate on the input file
-            for i in range(len(input_file1)):
+            for i in range(len(file1)):
                 # using "Regular Expression"
                 # able to search in user input in input file
-                word = re.fullmatch(input_search, input_file1[i], re.M | re.I)
+                word = re.fullmatch(input_search, file1[i], re.M | re.I)
                 # Statements to execute if user word is present
                 if word:
                     count += 1
                     # writing
-                    user_input_file.write(input_file1[i - 1] + ' ' + input_file1[i] + ' ' + input_file1[i + 1] + '\n')
+                    user_input_file.write(file1[i - 1] + ' ' + file1[i] + ' ' + file1[i + 1] + '\n')
             user_input_file.write("Number of times word appered in file:  ")
             user_input_file.write(str(count))
             # closed input file
