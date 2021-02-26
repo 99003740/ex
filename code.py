@@ -42,7 +42,8 @@ class search_word:
                 # Statements to execute if user word is present
                 if word:
                     count += 1
-                    # writing
+                    # writing in the user input file
+                    # to write the user input word , perivious word and post word 
                     user_input_file.write(file1[i - 1] + ' ' + file1[i] + ' ' + file1[i + 1] + '\n')
             user_input_file.write("Number of times word appered in file:  ")
             user_input_file.write(str(count))
